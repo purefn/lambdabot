@@ -1,6 +1,3 @@
-[submodule "oeis"]
-	path = oeis
-	url = git@github.com:purefn/oeis.git
 [submodule "pontarius-xmpp"]
 	path = pontarius-xmpp
 	url = https://github.com/pontarius/pontarius-xmpp.git
