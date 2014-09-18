@@ -73,4 +73,3 @@ import ShowFun
 import System.Random
 import Text.PrettyPrint.HughesPJ hiding (empty)
 import Text.Printf
-a = 1
