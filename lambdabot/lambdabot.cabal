@@ -47,6 +47,7 @@ executable lambdabot
 
   ghc-options:          -Wall -threaded
   build-depends:        base                 >= 3 && < 5,
+                        mtl,
                         lambdabot-core,
                         lambdabot-haskell-plugins,
                         --lambdabot-irc-plugins,
@@ -54,4 +55,6 @@ executable lambdabot
                         lambdabot-novelty-plugins,
                         lambdabot-reference-plugins,
                         lambdabot-social-plugins,
-                        lambdabot-hipchat-plugins
+                        lambdabot-hipchat-plugins,
+                        lambdabot-jira-plugins,
+                        lambdabot-reminder-plugins

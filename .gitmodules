@@ -4,3 +4,9 @@
 [submodule "lambdabot-hipchat-plugins"]
 	path = lambdabot-hipchat-plugins
 	url = git@github.com:purefn/lambdabot-hipchat-plugins.git
+[submodule "lambdabot-jira-plugins"]
+	path = lambdabot-jira-plugins
+	url = git@github.com:purefn/lambdabot-jira-plugins.git
+[submodule "lambdabot-reminder-plugins"]
+	path = lambdabot-reminder-plugins
+	url = git@github.com:purefn/lambdabot-reminder-plugins.git
